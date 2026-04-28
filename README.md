@@ -10,7 +10,7 @@ class SecurityEngineer:
         self.name = "An Nguyen"
         self.role = "CS @ NTU Singapore"
         self.interests = ["pentesting", "CTFs", "PQC"]
-        self.currently_learning = ["eJPT", "Python Security Tools", "SIEM"]
+        self.currently_learning = ["cryptography", "network", "eJPT"]
         self.blog = "https://panman4040.github.io/"
 
     def say_hi(self):
